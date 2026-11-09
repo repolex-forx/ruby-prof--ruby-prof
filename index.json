@@ -1,0 +1,11 @@
+{
+  "org": "ruby-prof",
+  "repo": "ruby-prof",
+  "versions": [
+    {
+      "commit": "769d3a452cb54312fa043224bd6b62b8a27a5acd",
+      "tag": "2.0.5",
+      "parsed_at": "2026-11-09T19:05:01.073636+00:00"
+    }
+  ]
+}
