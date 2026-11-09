@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ruby-prof/ruby-prof/commit/769d3a452cb54312fa043224bd6b62b8a27a5acd",
       "git:hexsha": "769d3a452cb54312fa043224bd6b62b8a27a5acd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.0.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.0.5",
+      "repolex:parsedAt": "2026-11-09T19:05:01.072780+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ruby-prof/ruby-prof/commit/aaa864c14f4654a5b9a800888fefab90cd41db67",
