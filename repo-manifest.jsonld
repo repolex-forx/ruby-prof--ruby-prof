@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ruby-prof/ruby-prof/commit/769d3a452cb54312fa043224bd6b62b8a27a5acd",
       "git:hexsha": "769d3a452cb54312fa043224bd6b62b8a27a5acd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.5"
     },
     {
